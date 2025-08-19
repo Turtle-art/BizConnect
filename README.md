@@ -1,7 +1,3 @@
-Here’s a **starter README** for your project with a proposed name:
-
----
-
 # **BizConnect – Serverless Business Directory Platform**
 
 BizConnect is a **serverless microservices application** that allows businesses to list their services, and customers to search, review, and interact with them.
@@ -12,6 +8,7 @@ It’s built with **.NET (Lambdas)**, **Angular**, **AWS managed services**, and
 ## 🚀 Features
 
 * Business registration & profile management
+
 * Customer reviews & ratings
 * Secure authentication with **AWS Cognito**
 * Asynchronous event-driven workflows using **Amazon SQS**
@@ -70,7 +67,9 @@ Each service runs as a **Lambda function** and communicates asynchronously via *
    * Create SQS queues for event topics (`business.created`, `review.submitted`, etc.)
    * Configure SES for outbound email
    * Set up Cognito user pool for authentication
-
+  
+     
+<img width="1547" height="1088" alt="bizConnect" src="https://github.com/user-attachments/assets/3b970386-683e-4350-b3db-3575ac6346ac" />
 ---
 
 ## 💰 Cost Optimization
