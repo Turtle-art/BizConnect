@@ -100,5 +100,3 @@ Each service runs as a **Lambda function** and communicates asynchronously via *
 * Add mobile app client (React Native/Ionic)
 
 ---
-
-Would you like me to also **generate the folder structure for the repository** (with `/frontend`, `/backend`, `/infrastructure`) so the README links naturally to the code layout?
