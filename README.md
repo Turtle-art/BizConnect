@@ -69,7 +69,7 @@ Each service runs as a **Lambda function** and communicates asynchronously via *
    * Set up Cognito user pool for authentication
   
      
-<img width="1547" height="1088" alt="bizConnect" src="https://github.com/user-attachments/assets/3b970386-683e-4350-b3db-3575ac6346ac" />![diagram-export-8-19-2025-11_10_09-AM](https://github.com/user-attachments/assets/0ab7916d-2114-4821-a24c-358a9fe9d10d)
+<img width="1547" height="1088" alt="bizConnect" src="https://github.com/user-attachments/assets/3b970386-683e-4350-b3db-3575ac6346ac" />
 
 ---
 
