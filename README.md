@@ -70,6 +70,7 @@ Each service runs as a **Lambda function** and communicates asynchronously via *
   
      
 <img width="1547" height="1088" alt="bizConnect" src="https://github.com/user-attachments/assets/3b970386-683e-4350-b3db-3575ac6346ac" />
+
 ---
 
 ## 💰 Cost Optimization
